@@ -1,4 +1,4 @@
-  <h1 align="center">Hi TECL, I'm Deepak Kumar Bind <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+  <h1 align="center">Hi, I'm Deepak Kumar Bind <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <div align="center">
 <p><img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&amp;size=25&amp;color=39FF14&amp;background=000000&amp;center=true&amp;vCenter=true&amp;width=490&amp;lines=%3E+Welcome+to+my+GitHub+profile...!" alt="Typing SVG"></p>
 </div>
